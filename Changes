@@ -89,5 +89,6 @@ Revision history for Perl extension AI::NaiveBayes1.
 	- fixed bug: import_from_YAML and import_from_YAML_file now
 	  return bless-ed references (they did not return before)
 
-2.008
+2.008  Fri May 21 10:56:33 ADT 2021
 	- GitHub release
+	- documentation improvements
