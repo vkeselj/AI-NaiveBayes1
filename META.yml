@@ -1,0 +1,11 @@
+--- #YAML:1.0
+name:         AI-NaiveBayes1
+version:      2.008
+version_from: NaiveBayes1.pm
+author:
+  - Vlado Keselj http://web.cs.dal.ca/~vlado
+licence: perl
+installdirs:  site
+requires:
+    YAML:                          0.0
+distribution_type: module
