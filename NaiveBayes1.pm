@@ -6,7 +6,7 @@ require Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 @EXPORT = qw(new);
 use vars qw($Version);
-$Version = $VERSION = '2.008';
+$Version = $VERSION = '2.009';
 
 use vars @EXPORT_OK;
 
@@ -769,18 +769,12 @@ implementation of the Gaussian model for continuous variables,
 and the following people for bug reports, support, and comments (in
 no particular order):
 
-Michael Stevens
+Michael Stevens, Tom Dyson, Dan Von Kohorn, Craig Talbert,
+Andrew Brian Clegg,
 
-Tom Dyson
-
-Dan Von Kohorn
-
-CPAN-testers: Andreas Koenig, Alexandr Ciornii, jlatour, Jost.Krieger,
-tvmaly, Matthew Musgrove, Michael Stevens, Nigel Horne, Graham Crookham
-
-Craig Talbert
-
-and Andrew Brian Clegg.
+and CPAN-testers, including: Andreas Koenig, Alexandr Ciornii, jlatour,
+Jost.Krieger, tvmaly, Matthew Musgrove, Michael Stevens, Nigel Horne,
+Graham Crookham, David Cantrell (dcantrell).
 
 =head1 AUTHOR
 
