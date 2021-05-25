@@ -67,8 +67,8 @@ $printedmodel = &shorterdecimals($printedmodel);
 eval "require YAML;";
 plan skip_all => "YAML module required for the remaining tests in 4.t" if $@;
 
-$nb->export_to_YAML_file('t/tmp1');
-my $nb1 = AI::NaiveBayes1->import_from_YAML_file('t/tmp1');
+$nb->export_to_YAML_file('t/tmp4');
+my $nb1 = AI::NaiveBayes1->import_from_YAML_file('t/tmp4');
 &compare_by_line("Model:\n" . &shorterdecimals($nb1->print_model),
 		 't/4-1.out', __FILE__, __LINE__);
 

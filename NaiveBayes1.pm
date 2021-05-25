@@ -6,7 +6,7 @@ require Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 @EXPORT = qw(new);
 use vars qw($Version);
-$Version = $VERSION = '2.009';
+$Version = $VERSION = '2.010';
 
 use vars @EXPORT_OK;
 

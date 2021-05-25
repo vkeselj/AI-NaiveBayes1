@@ -1,5 +1,10 @@
 Revision history for Perl extension AI::NaiveBayes1.
 
+2.010  Tue May 25 18:30:47 ADT 2021
+	- fixing bugs reported by perltesters on some platforms.
+	  It seems to be due to running tests in a parallel way, and
+	  that using the same name of the temporary file is the problem.
+
 2.009  Sun May 23 09:23:06 ADT 2021
 	- fixed bug with t/auxfunctions.pl not being located during
 	  testing (hopefully fixed because it requires a different
