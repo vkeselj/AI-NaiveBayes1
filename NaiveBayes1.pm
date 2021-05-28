@@ -757,8 +757,8 @@ book), page 86):
 
 =head1 HISTORY
 
-Algorithms::NaiveBayes by Ken Williams was not what I needed so I
-wrote this one.  Algorithms::NaiveBayes is oriented towards text
+Algorithm::NaiveBayes by Ken Williams was not what I needed so I
+wrote this one.  Algorithm::NaiveBayes is oriented towards text
 categorization, it includes smoothing, and log probabilities.  This
 module is a generic, basic Naive Bayes algorithm.
 
@@ -792,6 +792,6 @@ updated more frequently.
 
 =head1 SEE ALSO
 
-Algorithms::NaiveBayes, perl.
+Algorithm::NaiveBayes, perl.
 
 =cut
