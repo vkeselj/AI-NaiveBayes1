@@ -1,4 +1,4 @@
-# (c) 2003-21 Vlado Keselj http://web.cs.dal.ca/~vlado
+# (c) 2003-21 Vlado Keselj https://web.cs.dal.ca/~vlado
 
 package AI::NaiveBayes1;
 use strict;
@@ -778,7 +778,7 @@ Graham Crookham, David Cantrell (dcantrell).
 
 =head1 AUTHOR
 
-Copyright 2003-21 Vlado Keselj http://web.cs.dal.ca/~vlado.
+Copyright 2003-21 Vlado Keselj L<https://web.cs.dal.ca/~vlado>.
 In 2004 Yung-chung Lin provided implementation of the Gaussian model for
 continous variables.
 
@@ -786,8 +786,8 @@ This script is provided "as is" without expressed or implied warranty.
 This is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
 
-The module is available on CPAN (F<http://search.cpan.org/~vlado>), and
-F<http://web.cs.dal.ca/~vlado/srcperl/>.  The latter site is
+The module is available on CPAN (L<https://metacpan.org/author/VLADO>), and
+L<https://web.cs.dal.ca/~vlado/srcperl/>.  The latter site is
 updated more frequently.
 
 =head1 SEE ALSO
