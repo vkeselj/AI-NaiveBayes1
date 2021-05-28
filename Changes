@@ -1,5 +1,8 @@
 Revision history for Perl extension AI::NaiveBayes1.
 
+2.011  Fri May 28 07:55:50 ADT 2021
+	- merged corrections from Daniel Böhmer
+
 2.010  Tue May 25 18:30:47 ADT 2021
 	- fixing bugs reported by perltesters on some platforms.
 	  It seems to be due to running tests in a parallel way, and

@@ -1,4 +1,4 @@
-AI/NaiveBayes1 version 2.010
+AI/NaiveBayes1 version 2.011
 ============================
 
 This is an implementation of the basic Naive Bayes classification
@@ -24,7 +24,7 @@ module YAML.
 
 COPYRIGHT AND LICENCE
 
-Copyright 2003-21 Vlado Keselj http://web.cs.dal.ca/~vlado
+Copyright 2003-21 Vlado Keselj https://web.cs.dal.ca/~vlado
 
 This script is provided "as is" without express or implied warranty.
 This is free software; you can redistribute it and/or modify it under
