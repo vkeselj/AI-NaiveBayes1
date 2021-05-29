@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:         AI-NaiveBayes1
-version:      2.011
+version:      2.012
 version_from: NaiveBayes1.pm
 author:
   - Vlado Keselj https://web.cs.dal.ca/~vlado

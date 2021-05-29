@@ -6,7 +6,7 @@ require Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 @EXPORT = qw(new);
 use vars qw($Version);
-$Version = $VERSION = '2.011';
+$Version = $VERSION = '2.012';
 
 use vars @EXPORT_OK;
 
@@ -764,7 +764,7 @@ module is a generic, basic Naive Bayes algorithm.
 
 =head1 THANKS
 
-I would like to thank Daniel Böhmer for documentation corrections,
+I would like to thank Daniel Bohmer for documentation corrections,
 Yung-chung Lin (cpan:xern) for the implementation of the Gaussian model
 for continuous variables, and the following people for bug reports, support,
 and comments (in no particular order):
